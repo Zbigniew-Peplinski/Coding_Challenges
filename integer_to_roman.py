@@ -9,8 +9,8 @@ import numpy as np
 
 def inttoroman(n):
     """
-    converts integer digits to roman values
-    up unitl the number 3999
+    converts integer values to roman values 
+    up until the number 3999
     """
     n = str(n)
     ans = ''
